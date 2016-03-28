@@ -1,4 +1,4 @@
-<h3>Cucumber JVM with Gradle and Geb Skeleton</h3>
+<h3>Cucumber JVM with Gradle and Geb Skeleton - copy from James Barker</h3>
 
 This is a cut down version of: https://github.com/geb/geb-example-cucumber-jvm
 
